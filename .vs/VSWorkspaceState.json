@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\reducers\\authReducer.js",
   "PreviewInSolutionExplorer": false
 }
