@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
+    "\\src\\actions",
     "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\reducers\\authReducer.js",
+  "SelectedNode": "\\src\\actions\\types.js",
   "PreviewInSolutionExplorer": false
 }
