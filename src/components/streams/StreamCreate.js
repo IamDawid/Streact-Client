@@ -26,8 +26,8 @@ class StreamCreate extends React.Component {
         );
     }
 
-    onSumbit(formValues) {
-        console.log(formValues);
+    onSumbit = (formValues) => {
+        this.props.createStream(formValues);
     }
 
     render() {
@@ -55,7 +55,9 @@ const validate = (formValues) => {
     return errors;
 };
 
-export default reduxForm({
+const formWrapped = reduxForm({ //helper - this contains the previous export in formWrapped for easier connecting
     form: 'streamCreate',
     validate
 })(StreamCreate);
+
+export default connect(null, { createStream })(formWrapped);
