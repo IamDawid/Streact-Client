@@ -4,8 +4,9 @@
     "\\public",
     "\\src",
     "\\src\\actions",
-    "\\src\\apis"
+    "\\src\\apis",
+    "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\actions\\types.js",
+  "SelectedNode": "\\src\\reducers\\streamReducer.js",
   "PreviewInSolutionExplorer": false
 }
