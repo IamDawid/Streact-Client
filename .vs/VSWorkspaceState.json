@@ -5,8 +5,9 @@
     "\\src",
     "\\src\\actions",
     "\\src\\apis",
+    "\\src\\components",
     "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\reducers\\streamReducer.js",
+  "SelectedNode": "\\src\\components\\App.js",
   "PreviewInSolutionExplorer": false
 }
