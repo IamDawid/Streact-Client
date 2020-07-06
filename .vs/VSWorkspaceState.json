@@ -3,9 +3,7 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\actions",
-    "\\src\\components",
-    "\\src\\reducers"
+    "\\src\\components"
   ],
   "SelectedNode": "\\src\\components\\App.js",
   "PreviewInSolutionExplorer": false
