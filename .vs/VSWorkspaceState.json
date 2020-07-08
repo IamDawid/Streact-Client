@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\streams"
   ],
-  "SelectedNode": "\\src\\components\\App.js",
+  "SelectedNode": "\\src\\components\\streams\\StreamForm.js",
   "PreviewInSolutionExplorer": false
 }
