@@ -5,8 +5,10 @@ const StreamDelete = () => {
 
     const actions = (
         <div>
-        <button className='ui button negative'>Delete</button>
-        <button className='ui button'>Cancel</button>
+            <React.Fragment>
+              <button className='ui button negative'>Delete</button>
+                <button className='ui button'>Cancel</button>
+            </React.Fragment>
         </div>
         );
 
